@@ -40,7 +40,7 @@ Aplicando machine learning com modelos estatísticos. Realizei alguns projetos c
 **Projeto**
 - Modelo ARIMA, SARIMA - Previsão de novos usuários no Spotify
 - Modelo ARIMA - Previsão do clima durante o ano
-- Modelo ARIMA, SARIMA, AR - Previsão novos preços açoes
+- Modelo ARIMA, SARIMA, AR - Previsão novos preços ações
 
 ## Stack utilizada
 
